@@ -3,7 +3,6 @@
 
 ## Efficient Layer-Wise Cross-Modality Calibration and Aggregation for RGB-Infrared Object Detection
 
-The runnable code is included in the zip package, and this project will be refined in detail after the paper is accepted.
 
 ## Environment 
 
